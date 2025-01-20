@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600&display=block');
+
+@import "../public/assets/css/styles.css";
+@import "../public/assets/css/icons.css";
+
+// Packages css import
+@import "leaflet/dist/leaflet.css";
+@import 'suneditor/dist/css/suneditor.min.css';
+@import "filepond/dist/filepond.min.css"; // filepond
+@import "filepond-plugin-image-preview/dist/filepond-plugin-image-preview.css"; // filepond
+@import "react-datepicker/dist/react-datepicker.css"; //datepicker
+@import "@simonwep/pickr/dist/themes/classic.min.css";
+@import "@simonwep/pickr/dist/themes/monolith.min.css";
+@import "@simonwep/pickr/dist/themes/nano.min.css";
+@import 'simplebar-react/dist/simplebar.min.css';
+@import "react-range-slider-input/dist/style.css";
